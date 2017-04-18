@@ -1,1 +1,1 @@
-# qiniu
+`print("Hello World")`
